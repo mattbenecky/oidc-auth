@@ -1,1 +1,1 @@
-# OpenID Connect Authentication with Azure Active Directory
+# OpenID Connect Authentication with Azure AD
