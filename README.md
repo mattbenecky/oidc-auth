@@ -10,6 +10,6 @@ This provides a sample app registration federated credential to authenticate wit
 
 ```COPY``` the following line 👇
 ```
-curl -LJO https://raw.githubusercontent.com/mattbenecky/oidc/main/setup.sh && chmod +x setup.sh && ./setup.sh
+curl -LJO https://raw.githubusercontent.com/mattbenecky/oidc-auth/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 ```PASTE``` in Cloud Shell & press ```ENTER```
