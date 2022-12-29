@@ -13,3 +13,13 @@ This provides a sample Azure AD app registration with federated credentials to a
 curl -LJO https://raw.githubusercontent.com/mattbenecky/oidc-auth/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 ```PASTE``` in Cloud Shell & press ```ENTER```
+
+## Cleaning Up
+
+1. Launch [Cloud Shell](https://shell.azure.com/bash). (Open Link in New Tab)
+
+```COPY``` the following line 👇
+```
+curl -LJO https://raw.githubusercontent.com/mattbenecky/oidc-auth/main/cleanup.sh && chmod +x cleanup.sh && ./cleanup.sh
+```
+```PASTE``` in Cloud Shell & press ```ENTER```
