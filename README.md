@@ -4,7 +4,9 @@ This provides a sample app registration federated credential to authenticate wit
 
 ## Getting Started
 
-1. Launch [Cloud Shell](https://shell.azure.com/bash). (Open Link in New Tab)
+1. Fork this repository into your account.
+
+2. Launch [Cloud Shell](https://shell.azure.com/bash). (Open Link in New Tab)
 
 ```COPY``` the following line 👇
 ```
