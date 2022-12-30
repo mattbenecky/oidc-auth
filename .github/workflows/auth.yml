@@ -4,7 +4,9 @@ on:
   workflow_dispatch:
 
 permissions:
+      # Required permission to request OIDC JWT ID token from GitHub's OIDC provider
       id-token: write
+      # Required permission to perform GitHub Action actions/checkout
       contents: read
 
 jobs:
