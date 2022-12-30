@@ -20,6 +20,10 @@ curl -LJO https://raw.githubusercontent.com/mattbenecky/oidc-auth/main/setup.sh 
 ```TENANT_ID```
 ```SUBSCRIPTION_ID```
 
+## Authenticate via OIDC
+
+1. Run GitHub Actions workflow ```Authenticate via OIDC```
+
 ## Cleaning Up
 
 1. Launch [Cloud Shell](https://shell.azure.com/bash). (Open Link in New Tab)
