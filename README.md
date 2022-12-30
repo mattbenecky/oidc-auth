@@ -14,6 +14,12 @@ curl -LJO https://raw.githubusercontent.com/mattbenecky/oidc-auth/main/setup.sh 
 ```
 ```PASTE``` in Cloud Shell & press ```ENTER```
 
+3. Get your GitHub secrets ready:
+
+```CLIENT_ID```
+```TENANT_ID```
+```SUBSCRIPTION_ID```
+
 ## Cleaning Up
 
 1. Launch [Cloud Shell](https://shell.azure.com/bash). (Open Link in New Tab)
