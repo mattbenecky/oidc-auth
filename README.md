@@ -14,11 +14,15 @@ curl -LJO https://raw.githubusercontent.com/mattbenecky/oidc-auth/main/setup.sh 
 ```
 ```PASTE``` in Cloud Shell & press ```ENTER```
 
+![Secrets](docs/images/secrets.png)
+
 3. Get your GitHub secrets ready:
 
 ```CLIENT_ID```
 ```TENANT_ID```
 ```SUBSCRIPTION_ID```
+
+![Environment](docs/images/environment.png)
 
 ## Authenticate via OIDC
 
